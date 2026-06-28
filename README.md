@@ -29,4 +29,4 @@ This project analyzes the evolution of China–Russia trade relations using time
 This project was built to strengthen skills in data analysis, dashboard design, and geopolitical economic interpretation using real-world trade datasets.
 
 ## Preview
-![China-Russia Trade Dynamics Dashboard (2019-2026)](russia-china-trading.png)
+
